@@ -15,4 +15,4 @@
 
 ## My Code
 * PyMol FindSurfaceCharge: https://pymolwiki.org/index.php/FindSurfaceCharge
-* Electron microscopy analyzer: tcwarner.github.io/cell thickness analyzer v4.py
+* Electron microscopy analyzer: tcwarner.github.io/CellEM.py
