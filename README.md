@@ -14,5 +14,5 @@
 * S. Schmidt, Z. M. Wright, K. E. Eckhart, F. Starvaggi, W. Vickery, M. E. Wolf, M. Pitts, **T. Warner**, T. Taofik, M. Ng, C. Colliver, and S. A. Sydlik. Hands‑On Laboratory Experience Using Adhesives for Remote Learning of Polymer Chemistry. Journal of Chemical Education 2021 98 (10), 3153‑3162
 
 ## My Code
-* PyMol FindSurfaceCharge: https://pymolwiki.org/index.php/FindSurfaceCharge
-* Electron microscopy analyzer: tcwarner.github.io/CellEM.py
+* [PyMol FindSurfaceCharge](https://pymolwiki.org/index.php/FindSurfaceCharge)
+* [Electron microscopy analyzer](https://github.com/tcwarner/tcwarner.github.io/blob/main/CellEM.py)
