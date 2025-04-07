@@ -1,3 +1,13 @@
+# README
+# This file will load in an electron microscopy image and display it on the screen.
+# You may adjust the contrast levels in lines 25-30 if yours does not match well.
+# Once loaded, click on an individual cell. The edges and cell membrane will be detected.
+# The program will then analyze up to 25 distances between the edge and cell membrane. Points of poor staining are filtered.
+# The image of interest can be changed in line 307.
+# Known issues: cells that are too close to each other are detected as one cell. Cells that are unevenly stained will have uneven data.
+# The resulting detection events will be exported as a .csv.
+# Issues or need help? Contact tcwarner@mit.edu
+
 import cv2
 import numpy as np
 from scipy.spatial import distance
