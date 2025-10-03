@@ -2,7 +2,7 @@
 * Contact me at: tcwarner@mit.edu
 
 # About Me
-* I am a 4th-year PhD Candidate in Chemistry at MIT studying the cell wall organization of mycobacteria in Laura Kiessling's group.
+* I am a 5th-year PhD Candidate in Chemistry at MIT studying the cell wall organization of mycobacteria in Laura Kiessling's group.
 
 ## My Publications
 * **T. Warner**, V. Marando, O. Santiago‑Reyes, E. Hart, S. Smelyansky, A. Carter, T. Bernhardt, B. Bryson, D. Kim, and L. Kiessling*. Intercepting a Mycobacterial Biosynthetic Pathway with Covalent Labeling. _Journal of the American Chemical Society_ **2025**, 147, 13, 11189–11198. <a href="[url](https://pubs.acs.org/doi/full/10.1021/jacs.4c17913)">https://pubs.acs.org/doi/full/10.1021/jacs.4c17913</a>.
